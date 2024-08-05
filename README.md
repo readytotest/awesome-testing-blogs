@@ -26,9 +26,11 @@ Then look no further!
 ### Agile testing
 
 - [A seasoned tester's crystal ball:](https://visible-quality.blogspot.com/) Great blog tackling many meta-level topics.
+- [Callum Akehurst-Ryan's blog:](https://cakehurstryan.com/blog-posts/) Mainly covers meta-level topics, but also goes into some technical details.
 - [Lisa Crispin:](https://lisacrispin.com/agile-testing-blog/) Lisa Crispin's official blog about agile testing.
 - [Nicola Lindgren's blog:](https://nicolalindgren.com/) More focused on soft skills and manual testing. Formerly known as nickytests.
 - [Simon Prior's blog:](https://simon-prior.uk/) A blog about quality and testing from a management perspective.
+- [Think like a tester:](https://thinkingtester.com/articles/) Focuses on meta-level topics with strong emphasis on agile methodologies.
 
 ### Organizational
 
@@ -44,14 +46,15 @@ Look here for more in-depth blogs and articles on test engineering and design.
 - [Appium Pro:](https://appiumpro.com/editions) Blog about test automation with some focus on Appium-specific approaches.
 - [Automate the planet:](https://www.automatetheplanet.com/blog/) WebDriver-focused test automation with focus on architecture and design patterns.
 - [Automation Panda:](https://automationpanda.com/) As recommended by [awesome-testing on GitHub](https://git.io/v1hSm), a great blog covering automation related topics.
+- [David Burns - AutomatedTester:](https://www.theautomatedtester.co.uk/blog/) Blog about test automation and related design specifics.
 - [On Test Automation:](https://www.ontestautomation.com/blog/) Focuses on test automation and API testing.
 - [TestProject Test Automation Blog:](https://blog.testproject.io/) Another one with focus on automated E2E and API testing.
 
 ### Test-driven development
 
 - [Chris James' Blog:](https://quii.dev/) Great TDD content by the author of [Learn Go with Tests](https://github.com/quii/learn-go-with-tests).
-- [ThrowTheSwitch.org:](http://www.throwtheswitch.org/) TDD-centric blog with focus on embedded systems and related technologies, e.g. [Ceedling](http://www.throwtheswitch.org/ceedling), [CMock](http://www.throwtheswitch.org/cmock), [Unity](http://www.throwtheswitch.org/unity).
 - [Mark VanderVoord´s Blog:](http://vandervoord.net/) Blog from ThrowTheSwitch.org founder offering [unit testing and Ceedling guides](http://vandervoord.net/series).
+- [ThrowTheSwitch.org:](http://www.throwtheswitch.org/) TDD-centric blog with focus on embedded systems and related technologies, e.g. [Ceedling](http://www.throwtheswitch.org/ceedling), [CMock](http://www.throwtheswitch.org/cmock), [Unity](http://www.throwtheswitch.org/unity).
 
 ### Software design
 
@@ -76,6 +79,7 @@ Last but not least, here are some other blogs that did not fit well into any of 
 - [Software Testing Magazine:](https://www.softwaretestingmagazine.com/) Contains articles about a multitude of easily filterable topics.
 - [Software Testing Weekly:](https://softwaretestingweekly.com/) Weekly aggregation of curated blog posts related to various topics which can be easily consumed via newsletter.
 - [Testhouse Blogs:](https://www.testhouse.net/blogs/) Blog posts with strong focus on test management and QA.
+- [Testing with Marie:](https://www.testingwithmarie.com/blog) Covers various testing topics. Notable are the recurring "Month in Review" posts.
 - [The Green Report:](https://www.thegreenreport.blog/) A varied blog about quality assurance and software testing in particular.
 - [Thoughts from the test eye:](http://thetesteye.com/blog/) Miscellaneous testing related topics written by various authors.
 - [Tomi Familoni's testing diary:](https://familonitomi.com/) Another software testing and QA diary.
