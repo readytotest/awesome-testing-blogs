@@ -48,6 +48,7 @@ Look here for more in-depth blogs and articles on test engineering and design.
 - [Automation Panda:](https://automationpanda.com/) As recommended by [awesome-testing on GitHub](https://git.io/v1hSm), a great blog covering automation related topics.
 - [David Burns - AutomatedTester:](https://www.theautomatedtester.co.uk/blog/) Blog about test automation and related design specifics.
 - [On Test Automation:](https://www.ontestautomation.com/blog/) Focuses on test automation and API testing.
+- [Ready to Test:](https://readytotest.github.io) Half-QA blog, half-digital garage. Live working projects with Playwright/Cypress, CI/CD, and QA Philosophy.
 - [TestProject Test Automation Blog:](https://blog.testproject.io/) Another one with focus on automated E2E and API testing.
 
 ### Test-driven development
